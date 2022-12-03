@@ -1,0 +1,9 @@
+D:\Ömer 10B\Kurs\Sifre-Olusturucu-FormsApp\Sifre-Olusturucu-FormsApp\bin\Debug\Sifre-Olusturucu-FormsApp.exe.config
+D:\Ömer 10B\Kurs\Sifre-Olusturucu-FormsApp\Sifre-Olusturucu-FormsApp\bin\Debug\Sifre-Olusturucu-FormsApp.exe
+D:\Ömer 10B\Kurs\Sifre-Olusturucu-FormsApp\Sifre-Olusturucu-FormsApp\bin\Debug\Sifre-Olusturucu-FormsApp.pdb
+D:\Ömer 10B\Kurs\Sifre-Olusturucu-FormsApp\Sifre-Olusturucu-FormsApp\obj\Debug\Sifre_Olusturucu_FormsApp.Form1.resources
+D:\Ömer 10B\Kurs\Sifre-Olusturucu-FormsApp\Sifre-Olusturucu-FormsApp\obj\Debug\Sifre_Olusturucu_FormsApp.Properties.Resources.resources
+D:\Ömer 10B\Kurs\Sifre-Olusturucu-FormsApp\Sifre-Olusturucu-FormsApp\obj\Debug\Sifre-Olusturucu-FormsApp.csproj.GenerateResource.cache
+D:\Ömer 10B\Kurs\Sifre-Olusturucu-FormsApp\Sifre-Olusturucu-FormsApp\obj\Debug\Sifre-Olusturucu-FormsApp.exe
+D:\Ömer 10B\Kurs\Sifre-Olusturucu-FormsApp\Sifre-Olusturucu-FormsApp\obj\Debug\Sifre-Olusturucu-FormsApp.pdb
+D:\Ömer 10B\Kurs\Sifre-Olusturucu-FormsApp\Sifre-Olusturucu-FormsApp\obj\Debug\Sifre-Olusturucu-FormsApp.csprojResolveAssemblyReference.cache
